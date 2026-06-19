@@ -1,13 +1,4 @@
-<h2 align="center">
-  Portfolio Website — v2.0<br/>
-  <a href="https://sanjay.vercel.app/" target="_blank">sanjay.vercel.app</a>
-</h2>
-
-<div align="center">
-  <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
+  Portfolio 
 
 <div align="center">
 
