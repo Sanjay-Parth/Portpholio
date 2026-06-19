@@ -11,11 +11,7 @@
 
 <div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/Sanjay-Parth/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Sanjay-Parth/Portfolio?color=red&logo=github&style=for-the-badge)
+<img width="947" height="462" alt="image" src="https://github.com/user-attachments/assets/cb0b5c40-6b71-444c-a957-8e0bae1e8bd5" />
 
 </div>
 
