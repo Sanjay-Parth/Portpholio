@@ -1,6 +1,6 @@
   Portfolio 
 
-Live Demo => https://sanjay-parth.github.io/project
+ Live Demo =>  https://sanjay-parth.github.io/Portpholio/
 
 <div align="center">
 
