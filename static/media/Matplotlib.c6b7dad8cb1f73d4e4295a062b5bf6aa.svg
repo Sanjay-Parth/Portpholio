@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="32" height="22">
+  <circle cx="256" cy="256" r="250" fill="#e8e8e8" stroke="#0d5a8a" stroke-width="8"/>
+
+  <g stroke="#8a8a8a" stroke-width="4" fill="none">
+    <circle cx="256" cy="256" r="190"/>
+    <circle cx="256" cy="256" r="135"/>
+    <circle cx="256" cy="256" r="80"/>
+    <line x1="256" y1="6" x2="256" y2="506"/>
+    <line x1="6" y1="256" x2="506" y2="256"/>
+    <line x1="79" y1="79" x2="433" y2="433"/>
+    <line x1="433" y1="79" x2="79" y2="433"/>
+  </g>
+
+  <g stroke="#333" stroke-width="4">
+    <path d="M256 256 L208 75 A185 185 0 0 1 295 65 Z" fill="#f4a261"/>
+    <path d="M256 256 L67 256 A189 189 0 0 1 80 172 Z" fill="#f4d35e"/>
+    <path d="M256 256 L313 102 A165 165 0 0 1 359 126 Z" fill="#d9ef6b"/>
+    <path d="M256 256 L431 391 A220 220 0 0 1 392 429 Z" fill="#f4a261"/>
+    <path d="M256 256 L240 392 A137 137 0 0 1 278 392 Z" fill="#b7f0a1"/>
+    <path d="M256 256 L160 305 A108 108 0 0 1 171 321 Z" fill="#7eead7"/>
+    <path d="M256 256 L309 241 A55 55 0 0 1 311 270 Z" fill="#7aa2ff"/>
+  </g>
+</svg>
