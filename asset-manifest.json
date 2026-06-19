@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sanjay-Parth/Portpholio/static/css/main.98ca6802.css",
-    "main.js": "/Sanjay-Parth/Portpholio/static/js/main.9d569ea5.js",
+    "main.css": "/Sanjay-Parth/Portpholio/static/css/main.01116c66.css",
+    "main.js": "/Sanjay-Parth/Portpholio/static/js/main.f5513429.js",
     "static/js/453.ace21015.chunk.js": "/Sanjay-Parth/Portpholio/static/js/453.ace21015.chunk.js",
     "static/media/TinyLink.png": "/Sanjay-Parth/Portpholio/static/media/TinyLink.5763081dd3b0c7da1176.png",
     "static/media/leaf.png": "/Sanjay-Parth/Portpholio/static/media/leaf.ff2616f664c8c0ceab91.png",
@@ -49,12 +49,12 @@
     "static/media/Pandas.svg": "/Sanjay-Parth/Portpholio/static/media/Pandas.f37a3bc8e54f600f4f32fc12fd0b437a.svg",
     "static/media/Haskell.svg": "/Sanjay-Parth/Portpholio/static/media/Haskell.084122e02bec646ad186861642137932.svg",
     "static/media/Firebase.svg": "/Sanjay-Parth/Portpholio/static/media/Firebase.de3da3a4068963dd30fc0f885f170428.svg",
-    "main.98ca6802.css.map": "/Sanjay-Parth/Portpholio/static/css/main.98ca6802.css.map",
-    "main.9d569ea5.js.map": "/Sanjay-Parth/Portpholio/static/js/main.9d569ea5.js.map",
+    "main.01116c66.css.map": "/Sanjay-Parth/Portpholio/static/css/main.01116c66.css.map",
+    "main.f5513429.js.map": "/Sanjay-Parth/Portpholio/static/js/main.f5513429.js.map",
     "453.ace21015.chunk.js.map": "/Sanjay-Parth/Portpholio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98ca6802.css",
-    "static/js/main.9d569ea5.js"
+    "static/css/main.01116c66.css",
+    "static/js/main.f5513429.js"
   ]
 }
